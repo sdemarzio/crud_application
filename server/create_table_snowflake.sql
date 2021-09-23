@@ -1,3 +1,5 @@
+-- used to create a movie table.  create separate schemas
+
 
 use warehouse compute_wh;
 use database mentor;
